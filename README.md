@@ -2,6 +2,8 @@
 
 It's just a start for the next iteration...
 
+... which is continued as a web based tool at [https://github.com/swdriessen/starlights](https://github.com/swdriessen/starlights)
+
 ## Getting Started
 
 You can build the project and run the tests as follows:
